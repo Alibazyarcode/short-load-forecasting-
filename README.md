@@ -6,15 +6,15 @@
 
 Python 3.7 is used during development and following libraries are required to run the code provided in the notebook:
 
--Tensorflow
+- Tensorflow
 
--Numpy
+- Numpy
 
--Matplotlib
+- Matplotlib
 
--Pandas
+- Pandas
 
--keras
+- keras
 
 # Dataset
 Three different datasets were used to evaluate the proposed model. We selected these datasets based on the following criteria: 1) data volume because deep learning models are highly dependent on data, 2) different intervals, having different intervals of hourly, daily, weekly and monthly collection 3) availability for simplicity in reconstructing research results. These datasets have different properties, each of which is described below:
