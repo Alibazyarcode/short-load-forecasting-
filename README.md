@@ -53,6 +53,13 @@ One of the important reasons for using this data is the abundance of features in
 ![image](https://github.com/Alibazyarcode/short-load-forecasting-/assets/166903490/72b3c87a-6d83-4df6-9ab1-d8c90739598a)
 
 
+# For time interval change this field:
+
+![image](https://github.com/Alibazyarcode/short-load-forecasting-/assets/166903490/fa2c482d-db63-4bda-badf-c676b98ed4ee)
+
+
+
+
 
 
 
