@@ -4,7 +4,7 @@
 # Tools Required
 
 
-Python 2.7 is used during development and following libraries are required to run the code provided in the notebook:
+Python 3.7 is used during development and following libraries are required to run the code provided in the notebook:
 
 -Tensorflow
 
@@ -54,6 +54,13 @@ One of the important reasons for using this data is the abundance of features in
 
 
 # For time interval change this field:
+
+- H for Hour
+  
+- D for Day
+  
+- 7D for Week
+  
 
 ![image](https://github.com/Alibazyarcode/short-load-forecasting-/assets/166903490/fa2c482d-db63-4bda-badf-c676b98ed4ee)
 
